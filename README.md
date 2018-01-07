@@ -1,4 +1,6 @@
-# Ng5
+# Angular Todo List
+
+This project was created as a part learning AngularJS online.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
